@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8e957ae3.css",
-    "main.js": "/static/js/main.7fec3b43.js",
+    "main.css": "/static/css/main.1e101667.css",
+    "main.js": "/static/js/main.588498d4.js",
     "static/js/787.83ff6a9e.chunk.js": "/static/js/787.83ff6a9e.chunk.js",
     "static/media/graffiti-photo.jpg": "/static/media/graffiti-photo.3ab19524779d7fecf70d.jpg",
     "static/media/elia-2.jpg": "/static/media/elia-2.97fef460511597315c4f.jpg",
@@ -12,11 +12,11 @@
     "static/media/natalia-4.jpg": "/static/media/natalia-4.c7ac3d7f45958f10c25b.jpg",
     "static/media/pen-brush.svg": "/static/media/pen-brush.2bca978d69fc2fcc50b2.svg",
     "static/media/pen-brush-small.svg": "/static/media/pen-brush-small.b13364b1abf4eb95ec5b.svg",
-    "static/media/servicios_tienda-online.svg": "/static/media/servicios_tienda-online.c241825e285586cce6b97c415ada3428.svg",
+    "static/media/servicios_tienda-online.svg": "/static/media/servicios_tienda-online.66ce7ed80ce29a891761fd312ff694d7.svg",
     "static/media/elia-1.jpg": "/static/media/elia-1.05223227346402588e19.jpg",
     "static/media/skills-image.svg": "/static/media/skills-image.39fecad54eb4679a02343c29af235927.svg",
     "static/media/natalia-3.jpg": "/static/media/natalia-3.f361a66b23e47dd3e3c0.jpg",
-    "static/media/servicios_pagina-web.svg": "/static/media/servicios_pagina-web.a5393cef53c215bbd92a7ca6026bb2a3.svg",
+    "static/media/servicios_pagina-web.svg": "/static/media/servicios_pagina-web.bf1453569c80a83cf7558132fc0565e1.svg",
     "static/media/dots_Rectangle.png": "/static/media/dots_Rectangle.6204b398f04e21b90996.png",
     "static/media/ivan-profile-thumb.png": "/static/media/ivan-profile-thumb.eb4edf55e7e3bae00422.png",
     "static/media/razones_clientes.svg": "/static/media/razones_clientes.5892d26159783b29b105cb9505c46de0.svg",
@@ -38,12 +38,12 @@
     "static/media/arrow right.svg": "/static/media/arrow right.b494206ba41f0fde42c2b9bdb3e17429.svg",
     "static/media/icon-plane_icon-plane.svg": "/static/media/icon-plane_icon-plane.ba47dad87d0e37ac081b7c45bce1c2af.svg",
     "index.html": "/index.html",
-    "main.8e957ae3.css.map": "/static/css/main.8e957ae3.css.map",
-    "main.7fec3b43.js.map": "/static/js/main.7fec3b43.js.map",
+    "main.1e101667.css.map": "/static/css/main.1e101667.css.map",
+    "main.588498d4.js.map": "/static/js/main.588498d4.js.map",
     "787.83ff6a9e.chunk.js.map": "/static/js/787.83ff6a9e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e957ae3.css",
-    "static/js/main.7fec3b43.js"
+    "static/css/main.1e101667.css",
+    "static/js/main.588498d4.js"
   ]
 }
